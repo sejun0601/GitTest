@@ -40,7 +40,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         "member1 I made a change here and i'm pushing into the member1 branch"
     )
     Text(
-        "member1 made a change"
+        "member1 made a change a lot this is a test"
     )
 }
 
