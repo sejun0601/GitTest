@@ -42,6 +42,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
         "member1 made an error"
     )
+    Text("feature1")
 }
 
 @Preview(showBackground = true)
