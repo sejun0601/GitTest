@@ -39,6 +39,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
         "member1 I made a change here and i'm pushing into the member1 branch"
     )
+    Text("feature1")
 }
 
 @Preview(showBackground = true)
